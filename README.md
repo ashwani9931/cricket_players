@@ -9,7 +9,7 @@ Built with **Node.js**, **Express**, **HTML/CSS/JS**, and deployed using **Rende
 
 * 🔍 **Search** cricket player stats by name
 * 📂 Backend reads player data from a **CSV file**
-* 🎨 Modern UI with animations and **dark mode**
+* 🎨 Modern UI with animations
 * 💡 Fast and **responsive** frontend
 * 🌐 Fully deployable to **Render**
 * 📱 **Mobile–friendly** interface
