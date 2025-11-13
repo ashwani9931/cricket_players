@@ -162,15 +162,4 @@ This project is licensed under the **MIT License**.
 
 ```
 
----
 
-# 🎉 Want me to generate an animated banner or a logo for your project?
-
-I can make:
-
-* 🏏 Cricket-themed logo
-* ✨ GitHub profile banner
-* 🖼️ Project header image
-
-Would you like me to generate a cricket-themed logo for your project's header image?
-```
