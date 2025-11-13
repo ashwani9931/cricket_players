@@ -18,7 +18,8 @@ Built with **Node.js**, **Express**, **HTML/CSS/JS**, and deployed using **Rende
 
 ## 🖼️ Screenshots
 
-![Uploading image.png…]()
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/14d13bd7-12ff-4b4b-8e2e-23074bc0c448" />
+
 
 
 ---
